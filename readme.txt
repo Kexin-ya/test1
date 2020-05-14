@@ -1,4 +1,3 @@
 For test
-this is web applicaiton for travle idea share 
+this is for test
 is design by xkx
-using html,css,js,boostrap and jquery
